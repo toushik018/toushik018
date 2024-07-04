@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! I am a passionate developer with experience in various technologies. I love to contribute to open source projects and build amazing applications.
 
-<a href="https://www.facebook.com/toushik018/">
-<img src="https://raw.githubusercontent.com/toushik018/toushik018/main/images/cover.svg" />
-</a>
-
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -17,8 +13,7 @@ Welcome to my GitHub profile! I am a passionate developer with experience in var
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/toushik018/toushik018/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/toushik018/)[<img height="75" src="https://github.com/toushik018/toushik018/blob/main/images/icons/Facebook.png">](https://www.facebook.com/toushik018)[<img height="75" src="https://github.com/toushik018/toushik018/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/toushik018)
-
+[<p align="center"><img height="75" src="https://github.com/toushik018/toushik018/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/tayebhossain/)
 <br />
 
 ## :computer: Technologies that I know
