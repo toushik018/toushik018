@@ -52,15 +52,7 @@ Welcome to my GitHub profile! I am a passionate developer with experience in var
 - **👯 Seeking Collaboration**: Open source projects and dynamic web application development.
 - **🤔 Mission**: Helping others learn web development and spreading awareness about blockchain technology.
 - **💖 Community Involvement**: Running a charity foundation dedicated to supporting helpless people.
-- **⚡ Fun Fact**: Passionate about creating complex origami and fluent in five languages.
 
 <br />
 
-## :book: My recent blog posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Common interview questions that you need to know as a junior JavaScript developer.](https://dev.to/toushik018/common-interview-questions-that-you-need-to-know-as-a-junior-javascript-developer-29a6)
-- [What the heck is JSX in React.](https://dev.to/toushik018/what-the-heck-is-jsx-in-react-3f0a)
-- [A cleaner approach to write JavaScript &lpar;Bonus tips in the end.&rpar;](https://dev.to/toushik018/a-cleaner-approach-to-write-javascript-bonus-tips-in-the-end-58ng)
 <!-- BLOG-POST-LIST:END -->
