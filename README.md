@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I am a passionate developer with experience in var
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/toushik018"><img align="right" src="https://github.com/toushik018/toushik018/blob/main/devcard.svg" width="200" alt="Toushik's Dev Card"/></a>
+<a href="https://app.daily.dev/toushik018"><img align="right" src="https://github.com/toushik018/toushik018/blob/main/images/toushik.png" width="200" alt="Toushik's Dev Card"/></a>
 </div>
 
 ### 🔭 I’m working - In Programming Hero.
