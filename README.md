@@ -2,21 +2,19 @@
 
 I am a passionate full-stack developer with experience in various technologies. I love contributing to open source projects and building innovative applications.
 
-<a href="https://www.facebook.com/toushik018/">
 <img src="https://raw.githubusercontent.com/toushik018/toushik018/main/images/og-tayeb.png" alt="Toushik's Cover Image"/>
 </a>
 
-## :chart_with_upwards_trend: GitHub Stats
+## :chart_with_upwards_trend: My GitHub Stats
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=toushik018&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="Toushik's GitHub Streak"/>
 </p>
-
 <p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toushik018" alt="Toushik's GitHub TOP LAN"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toushik018)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=toushik018&show_icons=true&count_private=true)</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=toushik018&show_icons=true&count_private=true)
 
 ## :mailbox_with_mail: Connect with Me
 
