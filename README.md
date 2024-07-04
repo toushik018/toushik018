@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a passionate developer with experience in var
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/toushik018/toushik018/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/tayebhossain/) [<img height="75" src="https://github.com/toushik018/toushik018/blob/main/images/icons/Twitter.png">](https://x.com/Toushiik)</p>
+[<p align="center"><img height="75" src="https://github.com/toushik018/toushik018/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/tayebhossain/) [<img height="75" src="https://github.com/toushik018/toushik018/blob/main/images/icons/twitter.png">](https://x.com/Toushiik)</p>
 <br />
 
 ## :computer: Technologies that I know
