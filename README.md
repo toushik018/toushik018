@@ -12,7 +12,7 @@ I am a passionate full-stack developer with experience in various technologies. 
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toushik018&bg_color=000000&text_color=ffffff&hide_border=true" alt="Toushik's GitHub TOP LAN"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toushik018&bg_color=0d1117&text_color=ffffff&hide_border=true" alt="Toushik's GitHub TOP LAN"/>
 </p>
 
 ## :mailbox_with_mail: Connect with Me
