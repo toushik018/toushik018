@@ -1,6 +1,6 @@
-# Hi there, I'm Toushik 👋
+# Welcome to Toushik's GitHub Profile 👋
 
-Welcome to my GitHub profile! I am a passionate developer with experience in various technologies. I love to contribute to open source projects and build amazing applications.
+I am a passionate full-stack developer with experience in various technologies. I love contributing to open source projects and building innovative applications.
 
 <a href="https://www.facebook.com/toushik018/">
 <img src="https://raw.githubusercontent.com/toushik018/toushik018/main/images/og-tayeb.png" alt="Toushik's Cover Image"/>
@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I am a passionate developer with experience in var
   <img src="https://github.com/toushik018/toushik018/blob/main/images/icons/react.png" alt="React" height="40"/>
   <img src="https://github.com/toushik018/toushik018/blob/main/images/icons/redux.png" alt="Redux" height="40"/>
   <img src="https://github.com/toushik018/toushik018/blob/main/images/icons/tailwind.png" alt="Tailwind CSS" height="40"/>
-  <img src="https://github.com/toushik018/toushik018/blob/main/images/icons/Bootsrap.png" alt="Bootstrap" height="40"/>
   <img src="https://github.com/toushik018/toushik018/blob/main/images/icons/firebase.png" alt="Firebase" height="40"/>
   <img src="https://github.com/toushik018/toushik018/blob/main/images/icons/node.png" alt="Node.js" height="40"/>
   <img src="https://github.com/toushik018/toushik018/blob/main/images/icons/express.png" alt="Express.js" height="40"/>
@@ -48,4 +47,3 @@ Welcome to my GitHub profile! I am a passionate developer with experience in var
 - **💖 Community Involvement**: Running a charity foundation dedicated to supporting helpless people.
 
 <br />
-
