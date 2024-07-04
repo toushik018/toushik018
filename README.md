@@ -14,7 +14,6 @@ I am a passionate full-stack developer with experience in various technologies. 
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toushik018" alt="Toushik's GitHub TOP LAN"/>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=toushik018&show_icons=true&count_private=true)
 
 ## :mailbox_with_mail: Connect with Me
 
