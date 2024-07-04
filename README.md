@@ -41,21 +41,18 @@ Welcome to my GitHub profile! I am a passionate developer with experience in var
 <img src="https://github.com/toushik018/toushik018/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
-## :eyes: Current overview
+## :eyes: Current Overview
 
 <div align="left">
 <a href="https://app.daily.dev/toushik018"><img align="right" src="https://github.com/toushik018/toushik018/blob/main/images/toushik.png" width="200" alt="Toushik's Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - In Programming Hero.
-
-### 🌱 I’m exploring - Advanced motion graphics for web.
-
-### 👯 I’m looking - To collaborate on open source projects.
-
-### 🤔 I’m trying - To help people learn web development.
-
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+- **🔭 Current Role**: Junior Developer at Corsult, focusing on innovative web solutions and collaborating with cross-functional teams to build scalable applications.
+- **🌱 Exploring**: Advanced motion graphics for web development and integrating blockchain APIs with frontend applications.
+- **👯 Seeking Collaboration**: Open source projects and dynamic web application development.
+- **🤔 Mission**: Helping others learn web development and spreading awareness about blockchain technology.
+- **💖 Community Involvement**: Running a charity foundation dedicated to supporting helpless people.
+- **⚡ Fun Fact**: Passionate about creating complex origami and fluent in five languages.
 
 <br />
 
