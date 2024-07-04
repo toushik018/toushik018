@@ -1,7 +1,9 @@
 # Hi there, I'm Toushik 👋
 
 Welcome to my GitHub profile! I am a passionate developer with experience in various technologies. I love to contribute to open source projects and build amazing applications.
-
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=toushik018&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=toushik018&theme=dark)
 
 ## 🛠 Skills and Technologies
