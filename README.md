@@ -1,8 +1,6 @@
 # Welcome to Toushik's GitHub Profile 👋
 
 I am a passionate full-stack developer with experience in various technologies. I love contributing to open source projects and building innovative applications.
-
-<img src="https://raw.githubusercontent.com/toushik018/toushik018/main/images/og-tayeb.png" alt="Toushik's Cover Image"/>
 </a>
 
 ## :chart_with_upwards_trend: My GitHub Stats
